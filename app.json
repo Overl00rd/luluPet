@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "luluPet",
+    "slug": "lulupet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-notifications"],
+    "android": { "package": "com.lulupet.app" },
+    "ios": { "bundleIdentifier": "com.lulupet.app" }
+  }
+}
