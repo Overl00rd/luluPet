@@ -1,4 +1,5 @@
 APLICATIVO RECUPERAÇÃO DE PAM
+
 Proposta: Desenvolvam, em trios, um aplicativo mobile de Pet Shop utilizando React Native, aplicando os conteúdos de Firebase Authentication, navegação e Notifications trabalhados em aula.
 
 Aplicativo Desenvolvido: luluPet
